@@ -37,4 +37,6 @@ How to view the dashboard :
 1.Download the 'Business Sales Performance Analytics.pbix'file.
 
 2.Open with power BI Desktop. 
+
+3.![Dashboard Preview](Screenshots/business analysis.png) 
  
